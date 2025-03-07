@@ -234,13 +234,7 @@
             "postalCode": "68506"
           }
         ],
-        "contact": [
-          {
-            "name": {
-              "text": "Amy King"
-            }
-          }
-        ],
+
         "endpoint": [
           {
             "reference": "Endpoint/b003-4871-b587-ff6ce4705fcb"
