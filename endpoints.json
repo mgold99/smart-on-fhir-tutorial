@@ -8888,10 +8888,10 @@
       }
     },
     {
-      "fullUrl": "https://g2fhir.mckesson.com/xfhir/Organization/N_D3CEB714712848ABBA8D5199DD2C0038",
+      "fullUrl": "https://g2fhir.mckesson.com/xfhir/Organization/N-D3CEB714712848ABBA8D5199DD2C0038",
       "resource": {
         "resourceType": "Organization",
-        "id": "N_D3CEB714712848ABBA8D5199DD2C0038",
+        "id": "N-D3CEB714712848ABBA8D5199DD2C0038",
         "meta": {
           "profile": [
             "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization"
