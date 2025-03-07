@@ -80,9 +80,12 @@
         "name": "Lalita Pandit, MD, Inc.",
         "telecom": [
           {
-            "system": "phone",
-            "value": "714-432-9200",
-            "use": "work"
+            "extension": [
+              {
+                "url": "http://hl7.org/fhir/StructureDefinition/data-absent-reason",
+                "valueCode": "unknown"
+              }
+            ]
           }
         ],
         "address": [
